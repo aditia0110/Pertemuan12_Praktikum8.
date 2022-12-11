@@ -39,7 +39,7 @@ Jika kita memilih opsi `U = Mengupdate data` maka akan terlihat tampilan seperti
 
 Jika kita memilih opsi `D = Menghapus data` maka akan terlihat tampilan seperti berikut ini:
 
-<img width="506" alt="image" src="https://user-images.githubusercontent.com/115475348/206884110-c1761239-c371-4b53-aed2-995d17d2c116.png">
+<img width="652" alt="image" src="https://user-images.githubusercontent.com/115475348/206884332-02f0655d-6deb-4442-9d35-0993ad5b161a.png">
 
 Jika kita memilih opsi `Q = Keluar dari program` maka akan terlihat tampilan seperti berikut ini:
 
