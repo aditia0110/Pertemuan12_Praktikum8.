@@ -20,3 +20,45 @@ class diagram:
 
 3. Lalu buka file `Praktikum.py` dan masukan inputan sebagai berikut ini:
 
+![image](https://user-images.githubusercontent.com/115475348/206883737-0e19b34a-072f-4f8c-86f8-5da9255517d4.png)
+
+
+Dan hasilnya seperti berikut ini:
+
+Jika kita memilih opsi `C = Menambah data` maka akan terlihat tampilan seperti berikut ini:
+
+<img width="661" alt="image" src="https://user-images.githubusercontent.com/115475348/206883838-38c1693d-7a7f-41f1-ab90-eb0b5aa40edf.png">
+
+Jika kita memilih opsi `R = Melihat semua data` maka akan terlihat tampilan seperti berikut ini:
+
+<img width="553" alt="image" src="https://user-images.githubusercontent.com/115475348/206883880-ec94d533-4759-4560-be11-07d197647602.png">
+
+Jika kita memilih opsi `U = Mengupdate data` maka akan terlihat tampilan seperti berikut ini:
+
+<img width="664" alt="image" src="https://user-images.githubusercontent.com/115475348/206884055-4a6cc849-8bff-4599-9037-685a51c92d28.png">
+
+Jika kita memilih opsi `D = Menghapus data` maka akan terlihat tampilan seperti berikut ini:
+
+<img width="506" alt="image" src="https://user-images.githubusercontent.com/115475348/206884110-c1761239-c371-4b53-aed2-995d17d2c116.png">
+
+Jika kita memilih opsi `Q = Keluar dari program` maka akan terlihat tampilan seperti berikut ini:
+
+<img width="424" alt="image" src="https://user-images.githubusercontent.com/115475348/206884150-dae802b3-3fd6-4475-83aa-9992c3678d44.png">
+
+Demikianlah sedikit penjelasa dari saya tentang  program crud sederhana yang saya buat menggunakan class pada python.
+
+Kurang lebihnya mohon maaf,
+
+TERIMAKASIH
+
+
+
+
+
+
+
+
+
+
+
+
