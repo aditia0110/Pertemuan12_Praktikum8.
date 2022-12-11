@@ -4,9 +4,10 @@
 
 ### Repository ini dibuat sebagai tugas mata kuliah bahasa pemrograman
 
-1. Pertama kita buat folder `12-oop` dan didalam kita buat file bernama `Praktikum.py`
+1. Pertama kita buat folder `PRAKTIKUM` dan didalam folder tersebut kita buat file bernama `Praktikum_8.py`
 
-<img width="193" alt="image" src="https://user-images.githubusercontent.com/115475348/206855573-61800f91-5526-4c92-b8a1-d9b175c178e6.png">
+<img width="163" alt="image" src="https://user-images.githubusercontent.com/115475348/206884403-7aea4a9c-5f97-4be9-b670-bcff9c10db55.png">
+
 
 2. Kita akan buat program curd sederhana dan berikut `flowchart` dan `class diagram` program yang akan dibuat.
 
